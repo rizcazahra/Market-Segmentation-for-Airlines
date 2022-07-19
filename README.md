@@ -20,10 +20,10 @@ As for this case, columns that will be used in the clustering process are:
      C: "avg_discount" The average value of the discount coefficient corresponding to the customer's position in the observation window
 
 
-This clustering will use PCA for dimension reduction
- ![alt text](http://www.nlpca.org/fig_pca_principal_component_analysis.png)
-By performing this operation, we acttually look at the data from different point of view, means that new attributes can be extracted.
+After clustering using PCA for dimension reduction, we get 3 cluster:
+![image](https://user-images.githubusercontent.com/84758353/179644553-65dca346-4cbd-45d3-9fa1-c5d74aeef76c.png)
 
+The interpretation and recomendation:
+![image](https://user-images.githubusercontent.com/84758353/179644838-26c51a6c-baad-4790-a20b-819eae351842.png)
 
-After ![image](https://user-images.githubusercontent.com/84758353/179644144-a22a117a-4fc4-40b3-a571-d4a9f7361275.png)
-
+ 
