@@ -6,10 +6,10 @@ The workflow of this project will be:
 
 1. Data Preprocessing
 2. Visual Exploratory Data Analysis
-3. Encoding Categorical values
+3. Feature Selection
 4. Reduce Dimensionality
 5. Find the Clusters
-6. Visualize and Interpret the Clusters
+6. Interpretation and Recommendation
 
 As for this case, columns that will be used in the clustering process are:
 
